@@ -1,0 +1,2 @@
+C002,Computer Science
+COSC 250,Database
